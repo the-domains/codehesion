@@ -1,0 +1,14 @@
+layout_spectrum: 0.32858883310109377
+typography_spectrum: 0.4182635545730591
+color:
+  brandStrength: 0.29417201527394354
+  lightness: 0.8006858588196337
+  saturation: 0.24105369742028415
+  rhythmicContrast: 0.2272048443555832
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: Codehesion
